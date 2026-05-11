@@ -1,14 +1,20 @@
-LinguaDetect – NLP Based Language Detection System
-Overview
+# LinguaDetect – NLP Based Language Detection System
+# Overview
 LinguaDetect is a Machine Learning and Natural Language Processing (NLP) project that detects the language of a given text automatically. The project uses the Multinomial Naive Bayes Algorithm along with CountVectorizer for text classification. It is a beginner-friendly project that demonstrates the implementation of NLP techniques using Python and Scikit-learn.
-Features
+# Features
 Detects the language of user-entered text
+
 Uses NLP text preprocessing techniques
+
 Converts text data into numerical vectors using CountVectorizer
+
 Implements Multinomial Naive Bayes for classification
+
 Simple and easy-to-understand workflow
+
 Beginner-friendly Machine Learning project
-Technologies Used
+
+# Technologies Used
 Python
 Pandas
 NumPy
